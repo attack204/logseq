@@ -7,7 +7,7 @@ title: GTD
 :template: v-eisenhower
 :END:
 ### [[TODO]]
-####
+#### 
 #+BEGIN_QUERY
 {:query [:find (pull ?b [*])
          :where
