@@ -8,7 +8,6 @@ title: GTD
 :END:
 ### [[TODO]]
 ####
-####
 #+BEGIN_QUERY
 {:query [:find (pull ?b [*])
          :where
@@ -21,6 +20,7 @@ title: GTD
          [(contains? #{"DOING" "NOW"} ?marker)]]
  }
 #+END_QUERY
+####
 ####
 ####
 ### [[DECIDE]]
