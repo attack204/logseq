@@ -10,6 +10,5 @@ title: OkrPage
 |健康|身体素质| {{embed [[2021-OKR-O5-KRs]]}}|
 | 技术 | acm | {{embed [[2021-OKR-O2-KRs]]}} |
 | 技术| 实验室相关 | {{embed [[2021-OKR-O3-KRs]]}} |
-| 技术 | 文化课 | {{embed [[2021-OKR-O4-KRs]]}} |
 |兴趣|摄影|{{embed [[2021-OKR-O6-KRs]]}}|
 ##
