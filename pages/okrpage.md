@@ -12,11 +12,11 @@ title: OkrPage
 | 技术| 实验室相关 | {{embed [[2021-OKR-O3-KRs]]}} |
 |兴趣|摄影|{{embed [[2021-OKR-O6-KRs]]}}|
 ## 
-| [[放弃了]] | Objectives | Key Results |
+| [[放弃了的事情]] | Objectives | 
 |-|-|-|
-| 情商 | 研究两性相关 | {{embed [[2021-OKR-O1-KRs]]}} |
-| 技术 | 文化课 | {{embed [[2021-OKR-O4-KRs]]}} |
-|健康|身体素质| {{embed [[2021-OKR-O5-KRs]]}}|
-| 技术 | acm | {{embed [[2021-OKR-O2-KRs]]}} |
-| 技术| 实验室相关 | {{embed [[2021-OKR-O3-KRs]]}} |
-|兴趣|摄影|{{embed [[2021-OKR-O6-KRs]]}}|
+| 情商 | 研究两性相关 |
+| 技术 | 文化课 |
+|健康|身体素质|
+| 技术 | acm |
+| 技术| 实验室相关 
+|兴趣|摄影|
